@@ -1,0 +1,1001 @@
+Date,Product,Price,Quantity
+2023-07-18,Skateboard,58.53,5
+2023-01-04,Soccer Ball,16.48,7
+2023-01-04,Tennis Racket,189.29,1
+2023-04-12,Skateboard,100.25,4
+2023-03-03,Baseball Glove,87.83,5
+2023-03-18,Baseball Glove,71.85,3
+2023-08-16,Skateboard,74.53,4
+2023-01-29,Skateboard,76.23,9
+2023-05-26,Running Shoes,144.96,4
+2023-11-20,Running Shoes,130.72,3
+2023-01-31,Baseball Glove,32.66,9
+2023-10-17,Soccer Ball,20.3,3
+2023-12-02,Baseball Glove,92.9,8
+2023-12-05,Running Shoes,62.12,4
+2023-07-10,Soccer Ball,21.89,7
+2023-06-02,Baseball Glove,30.47,9
+2023-08-03,Running Shoes,147.81,1
+2023-04-08,Skateboard,55.36,7
+2023-02-07,Tennis Racket,182.37,2
+2023-12-23,Baseball Glove,87.98,3
+2023-08-12,Soccer Ball,21.04,4
+2023-07-15,Tennis Racket,188.27,7
+2023-06-16,Soccer Ball,17.0,9
+2023-12-19,Basketball,30.67,3
+2023-10-22,Baseball Glove,58.02,7
+2023-10-03,Baseball Glove,92.86,10
+2023-07-19,Skateboard,68.26,1
+2023-09-07,Basketball,35.7,4
+2023-06-22,Basketball,39.77,7
+2023-04-15,Tennis Racket,65.86,6
+2023-01-24,Tennis Racket,135.72,2
+2023-08-02,Skateboard,41.41,5
+2023-04-13,Basketball,23.95,3
+2023-11-03,Basketball,20.38,1
+2023-10-09,Running Shoes,91.94,9
+2023-02-25,Baseball Glove,40.61,9
+2023-12-09,Tennis Racket,97.28,2
+2023-11-01,Running Shoes,65.55,2
+2023-09-04,Tennis Racket,102.7,7
+2023-12-26,Tennis Racket,76.32,2
+2023-02-16,Running Shoes,110.66,10
+2023-05-23,Baseball Glove,55.2,3
+2023-03-17,Baseball Glove,88.93,6
+2023-06-17,Tennis Racket,156.29,5
+2023-12-06,Baseball Glove,91.32,5
+2023-02-20,Soccer Ball,28.05,6
+2023-08-03,Baseball Glove,44.57,9
+2023-04-10,Tennis Racket,74.8,9
+2023-03-25,Tennis Racket,135.5,3
+2023-08-22,Soccer Ball,22.53,9
+2023-10-27,Soccer Ball,22.05,4
+2023-10-10,Running Shoes,96.95,4
+2023-03-05,Basketball,31.88,5
+2023-08-28,Running Shoes,127.51,6
+2023-08-24,Baseball Glove,67.21,3
+2023-10-19,Skateboard,87.58,2
+2023-10-06,Tennis Racket,136.98,9
+2023-05-23,Soccer Ball,20.81,6
+2023-08-03,Baseball Glove,75.46,6
+2023-09-14,Running Shoes,60.55,9
+2023-12-28,Tennis Racket,177.71,3
+2023-06-07,Running Shoes,87.23,2
+2023-09-09,Running Shoes,90.55,9
+2023-08-06,Baseball Glove,58.66,9
+2023-02-22,Baseball Glove,46.63,10
+2023-08-31,Soccer Ball,17.77,8
+2023-04-09,Skateboard,45.24,3
+2023-10-11,Soccer Ball,23.51,4
+2023-06-04,Baseball Glove,78.76,6
+2023-07-31,Running Shoes,118.63,1
+2023-03-12,Soccer Ball,23.34,1
+2023-07-26,Soccer Ball,17.89,4
+2023-04-12,Skateboard,64.9,3
+2023-12-02,Basketball,24.77,1
+2023-03-02,Basketball,39.01,8
+2023-09-04,Soccer Ball,21.36,1
+2023-08-16,Soccer Ball,22.87,2
+2023-03-01,Basketball,35.41,3
+2023-12-23,Tennis Racket,171.09,5
+2023-04-25,Baseball Glove,26.27,9
+2023-06-05,Running Shoes,110.62,7
+2023-02-14,Soccer Ball,22.86,8
+2023-11-06,Tennis Racket,175.96,9
+2023-11-20,Basketball,22.99,4
+2023-07-04,Skateboard,80.52,8
+2023-03-22,Tennis Racket,162.65,3
+2023-11-14,Baseball Glove,50.34,5
+2023-10-31,Soccer Ball,25.91,1
+2023-01-13,Running Shoes,104.55,2
+2023-02-16,Basketball,32.11,2
+2023-08-21,Soccer Ball,27.15,1
+2023-08-18,Skateboard,53.57,4
+2023-06-01,Running Shoes,109.64,9
+2023-07-10,Running Shoes,121.03,3
+2023-08-02,Running Shoes,79.15,10
+2023-05-01,Tennis Racket,137.45,7
+2023-06-16,Tennis Racket,139.39,1
+2023-12-11,Baseball Glove,75.52,8
+2023-03-26,Soccer Ball,21.62,3
+2023-07-01,Tennis Racket,149.69,7
+2023-05-08,Running Shoes,127.52,4
+2023-11-19,Tennis Racket,133.32,10
+2023-01-10,Basketball,39.67,9
+2023-04-09,Tennis Racket,131.77,3
+2023-08-25,Soccer Ball,15.03,9
+2023-06-08,Baseball Glove,60.8,10
+2023-02-20,Skateboard,35.87,5
+2023-06-21,Tennis Racket,180.32,8
+2023-07-15,Skateboard,76.85,8
+2023-03-15,Tennis Racket,143.38,8
+2023-07-26,Skateboard,53.54,8
+2023-07-13,Basketball,35.82,3
+2023-06-02,Baseball Glove,58.53,6
+2023-03-07,Tennis Racket,139.74,7
+2023-03-29,Tennis Racket,118.75,5
+2023-11-06,Soccer Ball,26.62,10
+2023-07-18,Basketball,33.31,6
+2023-11-28,Baseball Glove,54.36,1
+2023-09-24,Basketball,20.31,7
+2023-03-20,Skateboard,46.59,10
+2023-05-16,Skateboard,79.77,9
+2023-07-08,Skateboard,93.65,4
+2023-12-20,Baseball Glove,31.33,9
+2023-07-24,Soccer Ball,28.03,6
+2023-07-04,Baseball Glove,86.85,5
+2023-05-08,Basketball,35.08,7
+2023-02-02,Running Shoes,149.31,4
+2023-01-11,Tennis Racket,193.4,4
+2023-04-10,Soccer Ball,19.9,8
+2023-12-04,Baseball Glove,36.59,4
+2023-08-16,Tennis Racket,171.38,6
+2023-08-15,Running Shoes,97.6,7
+2023-06-11,Soccer Ball,15.89,10
+2023-06-25,Soccer Ball,18.36,3
+2023-04-08,Skateboard,34.16,2
+2023-03-17,Baseball Glove,56.82,7
+2023-03-09,Soccer Ball,28.17,10
+2023-12-20,Running Shoes,69.76,8
+2023-08-29,Skateboard,63.88,4
+2023-10-02,Soccer Ball,22.64,7
+2023-09-24,Skateboard,93.99,7
+2023-02-18,Baseball Glove,39.76,9
+2023-07-11,Baseball Glove,29.67,6
+2023-06-25,Tennis Racket,123.61,5
+2023-03-24,Soccer Ball,25.44,7
+2023-10-08,Skateboard,63.99,1
+2023-02-15,Baseball Glove,93.77,1
+2023-06-17,Running Shoes,101.44,7
+2023-12-25,Running Shoes,146.55,7
+2023-12-11,Skateboard,53.5,3
+2023-04-26,Skateboard,108.95,5
+2023-03-11,Basketball,33.31,6
+2023-07-02,Tennis Racket,54.75,8
+2023-08-05,Running Shoes,97.6,10
+2023-04-03,Skateboard,75.17,1
+2023-02-17,Baseball Glove,65.11,6
+2023-09-09,Tennis Racket,151.92,8
+2023-04-30,Tennis Racket,80.87,9
+2023-09-27,Baseball Glove,64.64,7
+2023-03-31,Soccer Ball,27.37,5
+2023-12-10,Soccer Ball,17.65,6
+2023-05-11,Baseball Glove,77.12,2
+2023-02-01,Running Shoes,112.66,7
+2023-04-30,Tennis Racket,183.88,5
+2023-01-20,Basketball,26.13,3
+2023-08-07,Basketball,21.92,2
+2023-05-25,Baseball Glove,34.36,7
+2023-08-19,Tennis Racket,135.66,10
+2023-05-28,Basketball,38.03,1
+2023-03-29,Baseball Glove,75.91,7
+2023-08-01,Skateboard,78.91,5
+2023-04-06,Basketball,21.5,3
+2023-02-27,Soccer Ball,26.29,4
+2023-10-21,Basketball,36.05,10
+2023-01-25,Basketball,26.06,7
+2023-03-31,Soccer Ball,17.43,1
+2023-02-05,Basketball,39.08,4
+2023-02-03,Running Shoes,62.83,4
+2023-02-25,Soccer Ball,18.07,3
+2023-12-10,Soccer Ball,19.27,5
+2023-03-19,Soccer Ball,25.23,7
+2023-01-07,Skateboard,85.48,3
+2023-09-30,Skateboard,79.21,7
+2023-01-29,Basketball,34.23,9
+2023-04-22,Baseball Glove,77.26,6
+2023-01-20,Basketball,38.98,1
+2023-11-26,Baseball Glove,60.26,3
+2023-04-21,Skateboard,46.08,2
+2023-03-04,Soccer Ball,28.95,3
+2023-09-23,Soccer Ball,26.83,6
+2023-12-06,Basketball,24.54,9
+2023-06-27,Skateboard,99.05,6
+2023-05-26,Baseball Glove,29.34,8
+2023-11-16,Running Shoes,68.54,7
+2023-01-17,Skateboard,88.82,9
+2023-10-10,Baseball Glove,70.1,4
+2023-08-15,Baseball Glove,38.65,9
+2023-03-09,Running Shoes,76.87,5
+2023-04-09,Basketball,33.41,4
+2023-07-07,Skateboard,91.28,6
+2023-05-16,Soccer Ball,22.71,5
+2023-07-07,Soccer Ball,22.95,6
+2023-08-03,Tennis Racket,61.22,9
+2023-04-30,Running Shoes,80.57,7
+2023-08-27,Tennis Racket,162.98,4
+2023-07-29,Running Shoes,115.67,4
+2023-04-01,Skateboard,73.59,6
+2023-01-29,Soccer Ball,26.95,10
+2023-12-06,Skateboard,75.52,7
+2023-12-18,Basketball,20.06,6
+2023-12-03,Soccer Ball,29.72,10
+2023-10-19,Running Shoes,81.94,7
+2023-11-15,Tennis Racket,191.56,8
+2023-04-01,Baseball Glove,49.09,8
+2023-03-04,Running Shoes,100.56,7
+2023-03-09,Running Shoes,110.83,9
+2023-06-19,Soccer Ball,22.88,3
+2023-11-22,Soccer Ball,15.79,2
+2023-11-23,Baseball Glove,68.31,3
+2023-06-04,Baseball Glove,41.1,5
+2023-04-05,Tennis Racket,137.54,5
+2023-03-26,Running Shoes,105.84,1
+2023-05-10,Running Shoes,136.95,10
+2023-09-24,Soccer Ball,26.56,9
+2023-04-24,Basketball,27.69,5
+2023-09-15,Baseball Glove,61.79,5
+2023-10-11,Soccer Ball,20.26,8
+2023-08-15,Baseball Glove,73.69,5
+2023-06-04,Baseball Glove,59.41,1
+2023-04-09,Baseball Glove,64.19,6
+2023-02-16,Soccer Ball,22.06,8
+2023-03-06,Basketball,31.08,2
+2023-07-31,Running Shoes,126.19,1
+2023-09-29,Baseball Glove,90.44,10
+2023-11-12,Baseball Glove,87.69,3
+2023-04-29,Basketball,28.73,8
+2023-07-28,Baseball Glove,61.95,9
+2023-10-20,Basketball,31.27,1
+2023-04-12,Basketball,36.29,2
+2023-09-02,Running Shoes,102.41,9
+2023-07-11,Soccer Ball,29.8,8
+2023-07-22,Soccer Ball,17.48,3
+2023-09-22,Tennis Racket,117.19,10
+2023-04-17,Soccer Ball,20.92,3
+2023-10-12,Skateboard,42.07,2
+2023-10-24,Soccer Ball,17.42,6
+2023-10-16,Skateboard,94.64,5
+2023-10-22,Skateboard,41.04,3
+2023-10-07,Tennis Racket,140.4,1
+2023-01-06,Skateboard,32.65,10
+2023-03-03,Running Shoes,130.58,7
+2023-06-13,Tennis Racket,199.5,3
+2023-06-17,Skateboard,67.2,3
+2023-02-26,Basketball,33.34,10
+2023-08-13,Soccer Ball,17.46,8
+2023-08-23,Soccer Ball,25.18,3
+2023-11-13,Baseball Glove,79.72,5
+2023-11-22,Soccer Ball,16.06,8
+2023-10-18,Tennis Racket,126.57,6
+2023-08-04,Running Shoes,146.7,9
+2023-06-04,Running Shoes,102.99,3
+2023-04-28,Baseball Glove,44.25,2
+2023-01-13,Skateboard,114.67,1
+2023-11-12,Soccer Ball,20.83,3
+2023-01-25,Basketball,32.76,1
+2023-03-05,Skateboard,35.51,1
+2023-08-21,Tennis Racket,158.84,6
+2023-07-11,Baseball Glove,46.14,8
+2023-03-28,Tennis Racket,101.11,6
+2023-08-09,Tennis Racket,53.81,6
+2023-12-19,Running Shoes,142.55,9
+2023-07-21,Running Shoes,83.49,2
+2023-10-06,Skateboard,113.69,9
+2023-03-12,Skateboard,76.22,9
+2023-01-17,Baseball Glove,26.23,7
+2023-07-25,Baseball Glove,31.57,1
+2023-03-05,Baseball Glove,91.75,2
+2023-03-09,Tennis Racket,68.03,7
+2023-11-20,Running Shoes,100.05,4
+2023-08-13,Soccer Ball,22.7,10
+2023-10-18,Running Shoes,77.8,4
+2023-05-16,Tennis Racket,168.65,8
+2023-06-30,Tennis Racket,90.96,5
+2023-12-18,Running Shoes,131.52,1
+2023-11-08,Baseball Glove,86.8,8
+2023-03-30,Tennis Racket,91.93,8
+2023-01-12,Skateboard,61.73,3
+2023-06-12,Baseball Glove,77.82,4
+2023-09-01,Soccer Ball,28.72,3
+2023-07-21,Skateboard,112.73,5
+2023-08-13,Running Shoes,147.63,8
+2023-08-30,Baseball Glove,83.97,6
+2023-10-20,Skateboard,37.09,5
+2023-09-19,Skateboard,43.16,4
+2023-09-01,Basketball,23.75,7
+2023-09-11,Tennis Racket,194.25,8
+2023-01-14,Skateboard,52.94,4
+2023-08-30,Running Shoes,60.92,1
+2023-10-14,Running Shoes,136.39,5
+2023-11-06,Soccer Ball,25.77,10
+2023-12-09,Running Shoes,97.44,5
+2023-08-11,Soccer Ball,21.4,1
+2023-09-07,Baseball Glove,37.24,6
+2023-09-04,Skateboard,105.34,7
+2023-03-16,Soccer Ball,20.6,3
+2023-10-06,Baseball Glove,47.5,7
+2023-08-22,Skateboard,60.63,3
+2023-05-10,Tennis Racket,88.7,3
+2023-11-05,Skateboard,100.21,6
+2023-02-03,Tennis Racket,167.82,9
+2023-10-07,Skateboard,31.85,2
+2023-02-14,Skateboard,78.62,4
+2023-03-26,Soccer Ball,19.13,7
+2023-05-31,Skateboard,100.16,1
+2023-12-15,Soccer Ball,20.17,10
+2023-04-25,Basketball,37.56,1
+2023-03-31,Skateboard,77.03,4
+2023-07-17,Running Shoes,66.87,9
+2023-04-18,Basketball,38.82,4
+2023-03-07,Skateboard,96.7,10
+2023-01-03,Baseball Glove,58.12,10
+2023-04-30,Baseball Glove,43.14,1
+2023-08-01,Baseball Glove,46.38,1
+2023-05-15,Basketball,24.99,6
+2023-06-26,Baseball Glove,76.38,8
+2023-06-22,Skateboard,44.32,5
+2023-06-17,Baseball Glove,35.83,10
+2023-12-23,Skateboard,80.74,1
+2023-02-18,Running Shoes,69.06,7
+2023-11-26,Skateboard,31.69,1
+2023-08-04,Basketball,22.7,10
+2023-11-17,Basketball,34.12,7
+2023-10-09,Running Shoes,92.65,4
+2023-02-20,Basketball,36.3,5
+2023-08-06,Running Shoes,75.45,8
+2023-11-30,Running Shoes,73.1,9
+2023-01-06,Basketball,39.73,8
+2023-11-08,Running Shoes,83.03,3
+2023-09-12,Basketball,37.07,3
+2023-08-31,Tennis Racket,175.31,10
+2023-10-15,Baseball Glove,30.4,10
+2023-02-01,Tennis Racket,180.22,5
+2023-04-10,Running Shoes,89.82,2
+2023-07-23,Basketball,39.2,1
+2023-09-11,Running Shoes,145.85,3
+2023-07-31,Skateboard,115.18,3
+2023-04-08,Skateboard,51.87,8
+2023-03-11,Basketball,27.52,7
+2023-12-02,Running Shoes,146.68,7
+2023-06-23,Baseball Glove,47.67,2
+2023-04-29,Skateboard,72.99,5
+2023-05-28,Skateboard,42.85,10
+2023-06-11,Soccer Ball,16.72,10
+2023-05-04,Skateboard,76.23,3
+2023-06-12,Running Shoes,86.53,2
+2023-05-20,Tennis Racket,198.94,9
+2023-02-02,Skateboard,96.55,7
+2023-10-23,Tennis Racket,198.88,3
+2023-08-20,Skateboard,46.21,5
+2023-04-21,Skateboard,51.85,5
+2023-12-19,Baseball Glove,92.7,9
+2023-12-30,Basketball,30.85,7
+2023-12-16,Soccer Ball,17.1,8
+2023-06-05,Skateboard,56.4,3
+2023-11-24,Baseball Glove,26.11,1
+2023-08-03,Running Shoes,106.08,2
+2023-07-08,Soccer Ball,27.89,6
+2023-07-17,Basketball,30.72,10
+2023-06-29,Tennis Racket,117.79,9
+2023-06-26,Soccer Ball,17.85,5
+2023-10-12,Baseball Glove,49.05,2
+2023-06-28,Skateboard,33.71,8
+2023-02-23,Skateboard,32.49,8
+2023-05-23,Baseball Glove,32.68,5
+2023-04-19,Basketball,32.82,6
+2023-12-25,Baseball Glove,97.96,8
+2023-02-21,Baseball Glove,42.27,2
+2023-05-04,Baseball Glove,26.28,6
+2023-01-25,Skateboard,85.51,9
+2023-11-14,Baseball Glove,81.0,2
+2023-02-03,Skateboard,33.88,5
+2023-07-07,Tennis Racket,109.56,8
+2023-08-11,Basketball,20.68,4
+2023-01-24,Baseball Glove,54.79,2
+2023-11-29,Soccer Ball,16.88,7
+2023-04-21,Skateboard,53.88,2
+2023-11-24,Running Shoes,110.26,7
+2023-10-17,Basketball,33.17,7
+2023-09-27,Skateboard,96.79,8
+2023-03-10,Tennis Racket,154.99,4
+2023-12-06,Baseball Glove,38.98,3
+2023-11-03,Running Shoes,123.94,5
+2023-06-26,Skateboard,46.07,2
+2023-05-12,Skateboard,70.35,4
+2023-01-20,Tennis Racket,77.96,6
+2023-04-27,Tennis Racket,96.38,9
+2023-04-21,Basketball,25.97,10
+2023-01-16,Running Shoes,116.65,10
+2023-11-29,Basketball,27.72,1
+2023-12-18,Soccer Ball,29.42,2
+2023-09-05,Running Shoes,65.84,4
+2023-10-10,Tennis Racket,137.52,6
+2023-04-03,Skateboard,30.63,6
+2023-09-15,Skateboard,100.61,5
+2023-11-16,Baseball Glove,76.3,9
+2023-01-14,Tennis Racket,123.02,4
+2023-08-19,Baseball Glove,56.06,10
+2023-10-25,Basketball,33.48,7
+2023-10-05,Soccer Ball,26.41,6
+2023-02-06,Baseball Glove,33.77,2
+2023-02-18,Baseball Glove,63.76,3
+2023-07-21,Skateboard,57.11,3
+2023-11-18,Tennis Racket,65.63,7
+2023-06-26,Baseball Glove,89.68,6
+2023-08-25,Basketball,28.95,4
+2023-12-14,Tennis Racket,162.47,4
+2023-07-22,Basketball,39.17,8
+2023-11-14,Tennis Racket,89.74,3
+2023-12-04,Tennis Racket,194.12,4
+2023-11-19,Tennis Racket,198.21,9
+2023-05-19,Basketball,23.92,6
+2023-12-26,Baseball Glove,30.91,5
+2023-11-19,Baseball Glove,67.97,3
+2023-08-22,Soccer Ball,18.96,10
+2023-02-11,Tennis Racket,67.93,5
+2023-12-11,Tennis Racket,129.03,3
+2023-02-28,Basketball,38.98,5
+2023-04-23,Baseball Glove,32.96,6
+2023-11-24,Basketball,27.8,3
+2023-04-11,Running Shoes,98.96,1
+2023-08-06,Running Shoes,144.06,8
+2023-05-25,Baseball Glove,87.78,8
+2023-12-15,Skateboard,98.63,9
+2023-01-11,Running Shoes,136.84,7
+2023-03-17,Soccer Ball,24.88,3
+2023-03-20,Running Shoes,104.66,3
+2023-05-15,Basketball,31.96,8
+2023-01-12,Basketball,34.54,10
+2023-04-04,Tennis Racket,84.4,2
+2023-04-25,Soccer Ball,22.9,10
+2023-10-11,Soccer Ball,28.06,10
+2023-11-25,Skateboard,98.01,6
+2023-07-06,Running Shoes,125.25,4
+2023-10-23,Baseball Glove,98.81,10
+2023-12-08,Skateboard,94.78,2
+2023-02-27,Soccer Ball,17.67,9
+2023-04-09,Skateboard,50.86,10
+2023-12-18,Basketball,29.38,1
+2023-05-17,Skateboard,105.33,1
+2023-11-04,Basketball,38.83,9
+2023-01-18,Basketball,33.82,10
+2023-01-31,Basketball,33.32,4
+2023-12-20,Skateboard,39.81,10
+2023-08-14,Running Shoes,99.53,5
+2023-12-17,Tennis Racket,132.09,4
+2023-01-26,Baseball Glove,52.41,1
+2023-01-10,Baseball Glove,47.28,1
+2023-11-30,Running Shoes,61.69,9
+2023-10-19,Baseball Glove,86.48,2
+2023-11-17,Baseball Glove,33.78,5
+2023-11-09,Baseball Glove,46.97,10
+2023-09-17,Running Shoes,87.2,3
+2023-03-14,Baseball Glove,54.82,2
+2023-11-19,Baseball Glove,65.89,3
+2023-02-17,Skateboard,112.17,8
+2023-07-04,Tennis Racket,72.2,10
+2023-09-02,Skateboard,112.0,8
+2023-12-23,Soccer Ball,29.76,2
+2023-09-16,Basketball,32.77,3
+2023-02-08,Baseball Glove,46.91,8
+2023-06-16,Running Shoes,87.88,3
+2023-08-04,Skateboard,85.93,3
+2023-11-09,Soccer Ball,26.12,9
+2023-07-30,Running Shoes,141.37,9
+2023-03-24,Tennis Racket,53.01,8
+2023-09-08,Running Shoes,66.31,5
+2023-03-18,Basketball,37.28,10
+2023-12-26,Running Shoes,70.96,3
+2023-03-19,Basketball,24.7,3
+2023-02-11,Baseball Glove,65.58,6
+2023-06-20,Basketball,27.37,3
+2023-10-25,Running Shoes,61.18,1
+2023-02-07,Basketball,25.79,5
+2023-07-18,Baseball Glove,94.12,9
+2023-01-08,Baseball Glove,52.81,2
+2023-05-01,Running Shoes,93.32,5
+2023-06-09,Running Shoes,93.48,7
+2023-04-24,Soccer Ball,22.89,5
+2023-03-28,Running Shoes,74.2,3
+2023-02-22,Baseball Glove,52.1,6
+2023-01-03,Tennis Racket,53.33,2
+2023-06-20,Running Shoes,78.11,7
+2023-07-12,Skateboard,81.92,4
+2023-07-03,Baseball Glove,55.75,9
+2023-03-01,Running Shoes,132.68,10
+2023-02-11,Skateboard,84.94,9
+2023-05-27,Soccer Ball,21.99,1
+2023-11-02,Tennis Racket,183.45,6
+2023-04-06,Baseball Glove,86.79,1
+2023-01-12,Baseball Glove,55.49,9
+2023-03-16,Soccer Ball,24.05,8
+2023-03-08,Baseball Glove,65.61,3
+2023-12-28,Running Shoes,64.25,4
+2023-02-10,Tennis Racket,190.51,6
+2023-12-12,Tennis Racket,117.75,1
+2023-06-17,Tennis Racket,104.43,2
+2023-07-02,Baseball Glove,32.87,5
+2023-01-17,Basketball,37.28,9
+2023-06-02,Soccer Ball,25.01,9
+2023-06-27,Tennis Racket,140.25,8
+2023-01-17,Basketball,30.98,6
+2023-07-17,Soccer Ball,16.28,7
+2023-06-07,Tennis Racket,87.02,4
+2023-07-09,Baseball Glove,47.6,7
+2023-10-15,Basketball,32.13,4
+2023-11-23,Skateboard,68.04,3
+2023-05-19,Running Shoes,118.33,5
+2023-08-17,Soccer Ball,20.67,9
+2023-02-23,Skateboard,107.66,1
+2023-10-26,Basketball,35.32,8
+2023-02-06,Skateboard,67.48,10
+2023-10-22,Soccer Ball,26.32,9
+2023-09-21,Baseball Glove,53.07,5
+2023-09-01,Basketball,38.33,9
+2023-07-19,Skateboard,47.28,6
+2023-05-05,Tennis Racket,53.55,4
+2023-08-06,Baseball Glove,41.22,10
+2023-09-12,Skateboard,36.86,9
+2023-04-19,Tennis Racket,114.55,8
+2023-09-09,Basketball,35.16,10
+2023-01-04,Tennis Racket,57.16,3
+2023-02-12,Tennis Racket,181.27,8
+2023-11-01,Baseball Glove,32.57,2
+2023-01-12,Baseball Glove,36.3,3
+2023-02-04,Baseball Glove,72.19,3
+2023-03-09,Skateboard,86.96,7
+2023-11-02,Baseball Glove,65.48,5
+2023-07-11,Baseball Glove,57.5,1
+2023-01-27,Basketball,25.95,3
+2023-04-28,Soccer Ball,23.04,9
+2023-03-21,Skateboard,61.98,8
+2023-02-10,Soccer Ball,25.55,3
+2023-10-04,Tennis Racket,138.87,9
+2023-01-12,Soccer Ball,22.68,10
+2023-11-21,Tennis Racket,183.75,3
+2023-01-22,Baseball Glove,87.05,6
+2023-02-08,Basketball,39.73,10
+2023-10-01,Running Shoes,98.78,1
+2023-07-19,Tennis Racket,121.91,5
+2023-06-15,Basketball,30.64,3
+2023-03-27,Skateboard,40.53,1
+2023-01-18,Running Shoes,88.32,6
+2023-04-05,Basketball,37.29,10
+2023-01-07,Skateboard,49.96,3
+2023-12-04,Running Shoes,146.58,8
+2023-05-11,Basketball,32.62,6
+2023-07-11,Baseball Glove,76.5,3
+2023-03-03,Baseball Glove,72.64,3
+2023-11-03,Skateboard,70.13,5
+2023-09-08,Running Shoes,90.03,7
+2023-01-22,Soccer Ball,29.64,5
+2023-01-10,Tennis Racket,193.35,7
+2023-06-09,Basketball,37.93,2
+2023-12-11,Skateboard,85.03,4
+2023-12-28,Running Shoes,76.79,2
+2023-12-04,Soccer Ball,29.18,3
+2023-07-08,Tennis Racket,101.3,9
+2023-08-28,Tennis Racket,85.47,4
+2023-12-02,Soccer Ball,22.47,10
+2023-05-14,Running Shoes,99.16,10
+2023-03-27,Tennis Racket,95.18,2
+2023-06-13,Basketball,22.7,7
+2023-08-18,Tennis Racket,137.81,9
+2023-07-24,Baseball Glove,56.19,5
+2023-03-30,Skateboard,76.95,7
+2023-12-04,Skateboard,83.31,7
+2023-07-09,Soccer Ball,21.45,8
+2023-05-07,Running Shoes,67.83,3
+2023-04-23,Skateboard,102.29,5
+2023-05-28,Running Shoes,142.39,3
+2023-12-23,Soccer Ball,18.7,3
+2023-12-10,Soccer Ball,20.67,7
+2023-02-06,Skateboard,67.37,4
+2023-10-05,Basketball,23.94,10
+2023-08-26,Skateboard,78.18,1
+2023-10-06,Skateboard,55.61,6
+2023-12-20,Soccer Ball,21.01,4
+2023-11-15,Baseball Glove,69.11,9
+2023-08-04,Skateboard,34.16,5
+2023-09-30,Skateboard,31.51,1
+2023-11-04,Baseball Glove,26.02,1
+2023-09-17,Skateboard,33.29,3
+2023-04-15,Skateboard,91.22,6
+2023-04-02,Running Shoes,102.79,9
+2023-07-06,Soccer Ball,18.41,7
+2023-11-21,Basketball,31.58,8
+2023-01-21,Skateboard,62.53,7
+2023-09-21,Skateboard,104.17,9
+2023-10-08,Running Shoes,119.9,1
+2023-06-08,Skateboard,72.23,6
+2023-01-18,Running Shoes,106.94,9
+2023-05-05,Soccer Ball,17.7,8
+2023-07-11,Skateboard,44.45,3
+2023-04-20,Baseball Glove,32.98,7
+2023-10-18,Soccer Ball,18.32,2
+2023-05-31,Soccer Ball,26.4,7
+2023-02-01,Skateboard,42.67,3
+2023-03-05,Basketball,35.33,3
+2023-11-11,Skateboard,48.44,2
+2023-01-23,Basketball,36.86,5
+2023-10-18,Baseball Glove,27.55,1
+2023-01-11,Baseball Glove,65.16,4
+2023-02-25,Soccer Ball,19.83,10
+2023-12-22,Tennis Racket,104.71,2
+2023-09-12,Soccer Ball,29.46,2
+2023-11-27,Running Shoes,77.18,10
+2023-01-25,Skateboard,84.69,2
+2023-04-11,Running Shoes,130.74,3
+2023-05-01,Running Shoes,131.12,9
+2023-11-24,Skateboard,76.38,5
+2023-02-11,Tennis Racket,181.14,5
+2023-06-13,Skateboard,43.97,2
+2023-06-02,Skateboard,109.44,3
+2023-01-22,Basketball,22.48,9
+2023-09-23,Basketball,28.55,5
+2023-03-17,Soccer Ball,27.59,3
+2023-06-11,Running Shoes,101.72,1
+2023-10-08,Soccer Ball,15.38,2
+2023-03-08,Soccer Ball,26.28,2
+2023-08-31,Baseball Glove,61.62,5
+2023-11-21,Running Shoes,122.24,9
+2023-08-15,Baseball Glove,67.57,10
+2023-01-11,Tennis Racket,104.86,7
+2023-02-06,Running Shoes,132.96,9
+2023-05-11,Running Shoes,66.19,7
+2023-04-21,Skateboard,59.71,3
+2023-08-03,Tennis Racket,109.34,6
+2023-04-04,Running Shoes,131.09,3
+2023-08-15,Skateboard,105.42,10
+2023-05-26,Running Shoes,65.4,6
+2023-09-27,Running Shoes,75.99,6
+2023-09-07,Soccer Ball,22.94,4
+2023-12-09,Running Shoes,148.06,3
+2023-06-23,Running Shoes,102.81,3
+2023-12-16,Skateboard,34.52,6
+2023-02-07,Basketball,23.68,1
+2023-06-30,Basketball,28.5,7
+2023-07-31,Skateboard,112.64,7
+2023-11-04,Basketball,29.83,5
+2023-11-17,Baseball Glove,75.49,6
+2023-05-01,Soccer Ball,18.64,2
+2023-06-10,Baseball Glove,77.3,9
+2023-09-27,Baseball Glove,78.29,1
+2023-08-08,Basketball,27.63,5
+2023-11-15,Baseball Glove,97.69,4
+2023-08-20,Baseball Glove,92.57,6
+2023-12-25,Baseball Glove,61.43,9
+2023-06-11,Tennis Racket,176.89,9
+2023-09-22,Skateboard,96.31,8
+2023-10-25,Skateboard,116.15,5
+2023-09-15,Baseball Glove,91.17,6
+2023-10-16,Tennis Racket,131.5,10
+2023-04-05,Skateboard,76.35,9
+2023-12-11,Skateboard,41.52,8
+2023-05-24,Baseball Glove,59.45,2
+2023-07-15,Skateboard,41.34,8
+2023-08-11,Skateboard,53.77,4
+2023-05-06,Tennis Racket,192.06,3
+2023-01-19,Basketball,37.76,2
+2023-09-11,Tennis Racket,60.18,9
+2023-03-29,Basketball,35.04,6
+2023-02-05,Skateboard,107.34,1
+2023-01-09,Skateboard,67.61,9
+2023-07-31,Soccer Ball,27.3,1
+2023-05-07,Basketball,26.68,10
+2023-06-21,Basketball,25.2,8
+2023-04-18,Basketball,30.78,6
+2023-08-04,Soccer Ball,15.56,7
+2023-09-30,Baseball Glove,79.28,1
+2023-12-22,Skateboard,79.09,8
+2023-03-27,Tennis Racket,61.15,9
+2023-05-25,Skateboard,33.59,5
+2023-03-06,Baseball Glove,90.33,10
+2023-08-15,Basketball,26.27,8
+2023-11-04,Basketball,26.12,1
+2023-09-18,Soccer Ball,18.05,5
+2023-09-29,Basketball,38.12,1
+2023-12-09,Skateboard,65.55,6
+2023-10-02,Running Shoes,82.38,3
+2023-08-13,Baseball Glove,65.73,10
+2023-01-28,Skateboard,106.86,8
+2023-07-27,Soccer Ball,26.09,10
+2023-08-06,Baseball Glove,56.99,9
+2023-12-19,Basketball,38.45,10
+2023-01-14,Skateboard,48.39,7
+2023-01-12,Running Shoes,116.25,6
+2023-08-01,Running Shoes,119.48,2
+2023-08-25,Tennis Racket,63.67,9
+2023-08-04,Skateboard,111.91,7
+2023-11-20,Soccer Ball,18.41,9
+2023-09-06,Soccer Ball,22.77,3
+2023-11-21,Basketball,37.95,1
+2023-12-12,Basketball,31.57,8
+2023-06-13,Tennis Racket,61.26,3
+2023-04-01,Baseball Glove,48.05,7
+2023-06-11,Basketball,31.24,6
+2023-04-03,Baseball Glove,28.01,1
+2023-07-30,Basketball,20.64,3
+2023-08-03,Basketball,20.98,10
+2023-12-08,Running Shoes,113.13,5
+2023-02-11,Baseball Glove,35.5,8
+2023-04-19,Tennis Racket,59.54,9
+2023-11-10,Skateboard,35.35,1
+2023-04-27,Basketball,35.87,3
+2023-08-27,Running Shoes,123.33,9
+2023-09-06,Soccer Ball,18.92,8
+2023-02-26,Baseball Glove,70.17,10
+2023-04-23,Skateboard,106.32,7
+2023-03-21,Running Shoes,148.31,2
+2023-08-17,Running Shoes,76.66,6
+2023-04-26,Skateboard,72.72,10
+2023-01-23,Baseball Glove,73.28,5
+2023-09-16,Basketball,37.44,7
+2023-07-24,Running Shoes,100.08,1
+2023-08-30,Running Shoes,87.71,10
+2023-02-03,Tennis Racket,114.44,2
+2023-02-26,Running Shoes,147.78,4
+2023-01-28,Basketball,24.95,7
+2023-04-27,Running Shoes,123.33,9
+2023-12-13,Tennis Racket,153.83,10
+2023-07-04,Skateboard,114.62,1
+2023-11-18,Tennis Racket,199.62,8
+2023-03-03,Soccer Ball,27.01,10
+2023-11-20,Baseball Glove,85.65,8
+2023-04-09,Basketball,22.79,7
+2023-10-20,Skateboard,75.86,8
+2023-08-01,Skateboard,32.29,8
+2023-11-28,Running Shoes,130.48,5
+2023-09-21,Baseball Glove,57.79,5
+2023-08-14,Basketball,39.1,5
+2023-09-21,Basketball,22.72,7
+2023-03-04,Skateboard,66.87,8
+2023-10-29,Basketball,32.93,2
+2023-05-01,Basketball,30.58,10
+2023-02-25,Skateboard,50.11,9
+2023-08-08,Basketball,22.51,4
+2023-04-12,Tennis Racket,167.48,2
+2023-01-23,Soccer Ball,22.83,2
+2023-06-13,Running Shoes,127.3,4
+2023-06-17,Baseball Glove,27.22,7
+2023-06-25,Skateboard,107.12,1
+2023-08-22,Baseball Glove,46.2,8
+2023-03-03,Tennis Racket,105.25,1
+2023-10-16,Soccer Ball,19.67,2
+2023-09-15,Soccer Ball,19.66,10
+2023-08-17,Baseball Glove,49.75,4
+2023-09-21,Tennis Racket,151.19,5
+2023-12-17,Tennis Racket,141.68,6
+2023-12-25,Running Shoes,92.27,5
+2023-07-12,Baseball Glove,92.15,9
+2023-03-12,Soccer Ball,22.64,2
+2023-11-01,Skateboard,55.69,2
+2023-10-26,Tennis Racket,165.67,8
+2023-08-06,Skateboard,50.92,6
+2023-09-02,Baseball Glove,36.55,1
+2023-08-20,Baseball Glove,77.79,1
+2023-09-11,Running Shoes,67.73,8
+2023-06-13,Tennis Racket,54.73,6
+2023-03-05,Skateboard,119.26,3
+2023-06-22,Basketball,35.4,7
+2023-11-19,Skateboard,64.65,3
+2023-01-16,Baseball Glove,59.98,5
+2023-01-19,Skateboard,65.4,4
+2023-11-06,Skateboard,39.49,9
+2023-04-11,Running Shoes,74.7,9
+2023-12-14,Tennis Racket,112.77,9
+2023-04-07,Running Shoes,148.95,6
+2023-03-23,Tennis Racket,106.43,9
+2023-09-09,Tennis Racket,186.8,6
+2023-11-30,Baseball Glove,72.34,3
+2023-01-03,Running Shoes,92.77,6
+2023-06-10,Soccer Ball,23.81,2
+2023-03-18,Soccer Ball,26.78,9
+2023-09-23,Baseball Glove,93.17,1
+2023-02-22,Baseball Glove,53.23,8
+2023-09-02,Soccer Ball,29.73,6
+2023-04-15,Tennis Racket,133.98,7
+2023-01-15,Skateboard,97.24,8
+2023-10-10,Basketball,31.45,3
+2023-10-24,Basketball,22.9,8
+2023-10-27,Running Shoes,62.07,2
+2023-09-24,Skateboard,98.93,1
+2023-06-14,Basketball,39.37,7
+2023-06-06,Baseball Glove,38.96,1
+2023-07-11,Skateboard,33.51,10
+2023-03-03,Soccer Ball,18.67,2
+2023-06-06,Skateboard,55.64,3
+2023-03-26,Baseball Glove,27.34,9
+2023-07-27,Tennis Racket,61.23,7
+2023-01-13,Baseball Glove,36.43,6
+2023-11-03,Soccer Ball,27.55,9
+2023-10-05,Baseball Glove,87.23,6
+2023-03-08,Baseball Glove,29.75,5
+2023-04-17,Soccer Ball,25.62,3
+2023-04-14,Tennis Racket,51.19,10
+2023-10-25,Soccer Ball,27.24,4
+2023-02-07,Running Shoes,78.65,10
+2023-06-05,Basketball,25.21,4
+2023-04-04,Skateboard,32.93,7
+2023-07-08,Running Shoes,75.34,4
+2023-10-02,Baseball Glove,90.71,5
+2023-07-21,Skateboard,32.55,8
+2023-09-06,Running Shoes,70.73,7
+2023-09-17,Basketball,28.44,4
+2023-06-05,Basketball,36.78,4
+2023-10-29,Tennis Racket,140.58,5
+2023-05-07,Running Shoes,63.4,1
+2023-05-30,Running Shoes,98.87,6
+2023-05-22,Baseball Glove,35.04,10
+2023-01-15,Soccer Ball,23.08,4
+2023-06-17,Basketball,31.14,6
+2023-11-28,Soccer Ball,15.95,9
+2023-07-07,Soccer Ball,28.01,2
+2023-04-21,Soccer Ball,15.47,4
+2023-04-18,Soccer Ball,26.0,8
+2023-04-06,Baseball Glove,73.93,6
+2023-07-24,Skateboard,102.09,3
+2023-09-24,Tennis Racket,173.22,6
+2023-01-07,Basketball,27.85,10
+2023-08-21,Tennis Racket,83.84,4
+2023-10-21,Soccer Ball,17.45,8
+2023-02-24,Baseball Glove,43.57,7
+2023-09-26,Baseball Glove,62.24,4
+2023-06-10,Baseball Glove,90.52,1
+2023-06-02,Soccer Ball,16.09,2
+2023-10-23,Running Shoes,137.83,10
+2023-06-06,Skateboard,85.2,3
+2023-12-04,Baseball Glove,97.83,7
+2023-07-21,Baseball Glove,62.49,2
+2023-09-21,Running Shoes,91.07,1
+2023-03-17,Basketball,34.29,2
+2023-07-14,Soccer Ball,22.73,6
+2023-02-11,Running Shoes,97.21,8
+2023-11-30,Basketball,39.63,1
+2023-04-11,Tennis Racket,138.45,8
+2023-08-23,Basketball,25.17,3
+2023-12-08,Running Shoes,102.17,4
+2023-07-29,Soccer Ball,19.41,6
+2023-11-29,Soccer Ball,27.35,9
+2023-01-11,Soccer Ball,27.89,7
+2023-10-14,Basketball,25.21,3
+2023-09-18,Skateboard,99.01,9
+2023-01-29,Tennis Racket,169.69,7
+2023-09-19,Basketball,22.77,3
+2023-10-21,Tennis Racket,50.28,7
+2023-02-16,Tennis Racket,190.73,7
+2023-09-17,Soccer Ball,29.85,6
+2023-06-06,Skateboard,54.75,8
+2023-04-17,Baseball Glove,69.34,5
+2023-08-01,Running Shoes,72.6,5
+2023-09-24,Baseball Glove,25.49,10
+2023-06-24,Baseball Glove,43.41,7
+2023-05-14,Tennis Racket,127.97,9
+2023-08-17,Basketball,23.39,8
+2023-10-04,Soccer Ball,24.88,3
+2023-10-24,Skateboard,37.11,10
+2023-08-30,Soccer Ball,24.36,10
+2023-09-02,Soccer Ball,15.03,7
+2023-05-14,Tennis Racket,74.88,10
+2023-07-27,Skateboard,38.67,10
+2023-11-10,Basketball,30.83,8
+2023-05-20,Soccer Ball,21.54,3
+2023-11-24,Basketball,22.35,5
+2023-06-04,Baseball Glove,95.87,1
+2023-10-31,Baseball Glove,54.84,8
+2023-09-17,Baseball Glove,80.75,4
+2023-03-01,Skateboard,36.75,1
+2023-02-06,Baseball Glove,32.18,2
+2023-01-25,Baseball Glove,86.66,6
+2023-11-12,Tennis Racket,169.95,7
+2023-11-07,Soccer Ball,22.88,5
+2023-12-01,Basketball,23.06,9
+2023-03-17,Tennis Racket,121.74,10
+2023-01-06,Baseball Glove,87.69,7
+2023-02-06,Tennis Racket,156.09,8
+2023-08-24,Baseball Glove,85.89,5
+2023-08-02,Running Shoes,97.43,8
+2023-04-19,Tennis Racket,160.73,10
+2023-01-21,Basketball,29.75,8
+2023-05-05,Skateboard,70.44,7
+2023-03-22,Basketball,38.35,2
+2023-11-05,Soccer Ball,18.87,1
+2023-10-29,Skateboard,103.61,7
+2023-01-31,Skateboard,33.17,3
+2023-05-22,Tennis Racket,140.15,7
+2023-06-04,Soccer Ball,15.25,9
+2023-06-03,Soccer Ball,20.77,2
+2023-06-08,Running Shoes,67.75,3
+2023-03-17,Running Shoes,138.55,6
+2023-05-24,Soccer Ball,22.61,10
+2023-10-05,Tennis Racket,119.66,3
+2023-08-05,Baseball Glove,76.23,2
+2023-05-14,Basketball,30.83,7
+2023-10-28,Baseball Glove,61.24,9
+2023-11-23,Baseball Glove,45.82,9
+2023-05-06,Running Shoes,86.19,3
+2023-04-17,Soccer Ball,22.97,1
+2023-05-04,Tennis Racket,191.17,3
+2023-11-12,Running Shoes,145.78,3
+2023-02-26,Baseball Glove,83.43,6
+2023-08-08,Basketball,38.42,9
+2023-01-06,Tennis Racket,63.47,2
+2023-10-04,Baseball Glove,45.47,6
+2023-02-18,Baseball Glove,82.23,8
+2023-07-09,Basketball,39.47,10
+2023-11-13,Basketball,35.21,5
+2023-04-27,Basketball,28.11,1
+2023-03-25,Basketball,29.97,9
+2023-08-08,Soccer Ball,20.61,9
+2023-11-28,Skateboard,57.38,4
+2023-09-02,Soccer Ball,28.75,1
+2023-03-14,Basketball,39.66,4
+2023-03-18,Basketball,28.04,2
+2023-11-18,Soccer Ball,17.59,10
+2023-04-19,Basketball,29.5,4
+2023-03-11,Running Shoes,103.41,9
+2023-11-15,Basketball,27.95,5
+2023-10-20,Basketball,22.82,4
+2023-10-16,Running Shoes,126.49,2
+2023-06-18,Basketball,23.71,6
+2023-12-26,Skateboard,53.24,7
+2023-12-13,Basketball,33.05,7
+2023-01-10,Skateboard,57.36,8
+2023-02-10,Running Shoes,141.08,10
+2023-01-27,Soccer Ball,24.37,10
+2023-07-27,Skateboard,105.19,4
+2023-07-18,Baseball Glove,50.25,8
+2023-05-02,Soccer Ball,20.66,4
+2023-05-17,Skateboard,114.69,1
+2023-10-09,Skateboard,73.0,1
+2023-05-27,Baseball Glove,64.88,2
+2023-10-05,Soccer Ball,16.91,2
+2023-05-09,Running Shoes,134.38,2
+2023-04-30,Baseball Glove,39.47,8
+2023-10-06,Running Shoes,139.22,8
+2023-01-23,Soccer Ball,20.23,10
+2023-02-11,Basketball,30.23,7
+2023-10-24,Running Shoes,76.46,3
+2023-04-08,Baseball Glove,53.59,6
+2023-05-28,Running Shoes,120.82,7
+2023-05-16,Tennis Racket,63.3,6
+2023-09-15,Basketball,27.32,9
+2023-10-31,Tennis Racket,176.29,7
+2023-04-05,Running Shoes,94.87,6
+2023-01-11,Running Shoes,71.09,4
+2023-01-18,Baseball Glove,59.79,4
+2023-04-16,Tennis Racket,134.66,2
+2023-05-19,Skateboard,38.71,3
+2023-07-07,Baseball Glove,98.48,2
+2023-09-03,Baseball Glove,34.95,1
+2023-06-29,Basketball,28.62,5
+2023-02-16,Basketball,31.82,6
+2023-07-23,Baseball Glove,69.58,6
+2023-02-18,Tennis Racket,164.4,9
+2023-06-11,Running Shoes,141.77,4
+2023-08-14,Running Shoes,129.24,10
+2023-12-09,Baseball Glove,41.04,8
+2023-02-27,Soccer Ball,23.39,6
+2023-09-04,Baseball Glove,61.72,2
+2023-03-10,Baseball Glove,98.47,6
+2023-02-02,Tennis Racket,87.11,3
+2023-12-14,Running Shoes,100.55,10
+2023-02-22,Running Shoes,108.46,2
+2023-08-26,Soccer Ball,21.59,5
+2023-05-13,Soccer Ball,18.08,7
+2023-03-27,Soccer Ball,26.48,10
+2023-04-15,Running Shoes,138.19,4
+2023-04-28,Tennis Racket,167.26,4
+2023-07-14,Skateboard,74.44,7
+2023-11-15,Skateboard,65.31,6
+2023-09-24,Running Shoes,113.72,4
+2023-07-21,Basketball,32.43,9
+2023-01-31,Tennis Racket,180.86,2
+2023-11-03,Tennis Racket,95.24,5
+2023-03-29,Skateboard,65.65,2
+2023-11-22,Soccer Ball,22.56,5
+2023-05-16,Soccer Ball,15.48,8
+2023-03-06,Running Shoes,67.65,8
+2023-10-14,Basketball,31.6,8
+2023-04-25,Basketball,24.34,5
+2023-07-07,Soccer Ball,23.86,2
+2023-01-15,Tennis Racket,88.19,10
+2023-02-13,Running Shoes,86.14,7
+2023-09-07,Soccer Ball,20.68,9
+2023-06-18,Basketball,28.66,6
+2023-09-15,Tennis Racket,171.9,7
+2023-12-06,Skateboard,90.8,4
+2023-01-04,Tennis Racket,190.61,8
+2023-11-18,Running Shoes,107.3,3
+2023-05-27,Running Shoes,69.95,8
